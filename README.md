@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Francisco!
+👋 Hi, I’m Francisco!
 
 - 👀 I’m interested in Frontend Development.
 - 💪 I'm currently working on a Coderhouse project.
