@@ -1,6 +1,6 @@
 👋 Hi, I’m Francisco!
 
-- 👀 I’m interested in Front End Development.
+- 👀 I’m interested in Front-End Development.
 - 💪 I'm currently working on a [Coderhouse project](https://github.com/franciccone/gina-artesanias).
 - 🌱 I’m currently learning HTML5 and CSS3.
 - 💞️ I’m looking to collaborate on any kind of Front End Development project to gain more experience.
