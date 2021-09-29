@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in Front-End Development.
 - 💪 I'm currently working on a [Coderhouse project](https://github.com/franciccone/ecommerce-react) with React.js
-- 🌱 I’m currently adding knowledge of JavaScript and React.js
-- 💞️ I’m looking to collaborate on any kind of Front-End Development project to gain more experience.
+- 🌱 Also, I’m currently adding knowledge of JavaScript and React.js
+- 💞️ In the near future, I’m looking to collaborate on any kind of Front-End Development project to gain more experience.
 - 📫 How to reach me: [Gmail](mailto:franciscociccone4@gmail.com) and [LinkedIn](https://www.linkedin.com/in/franciscociccone/).
 - ⚡ Fun fact: I enjoy learning about new cultures.
 
